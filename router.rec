@@ -1,0 +1,602 @@
+{
+  "version": 1,
+  "width": 134,
+  "height": 29,
+  "duration": 230.607382,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.016014,
+      "\u001b]0;root@ip-172-31-31-233:~\u0007\u001b[?1034h[root@ip-172-31-31-233 ~]# "
+    ],
+    [
+      2.003853,
+      "t"
+    ],
+    [
+      0.069994,
+      "a"
+    ],
+    [
+      0.342951,
+      "i"
+    ],
+    [
+      0.199053,
+      "l"
+    ],
+    [
+      0.811052,
+      " "
+    ],
+    [
+      0.37704,
+      "-"
+    ],
+    [
+      0.231967,
+      "1"
+    ],
+    [
+      0.187928,
+      "0"
+    ],
+    [
+      1.113066,
+      "\b\u001b[K"
+    ],
+    [
+      0.259008,
+      "\b\u001b[K"
+    ],
+    [
+      1.620023,
+      "6"
+    ],
+    [
+      0.96005,
+      " "
+    ],
+    [
+      0.477868,
+      "/"
+    ],
+    [
+      0.161996,
+      "e"
+    ],
+    [
+      0.080135,
+      "tc/"
+    ],
+    [
+      1.268054,
+      "a"
+    ],
+    [
+      0.122048,
+      "n"
+    ],
+    [
+      0.129979,
+      "s"
+    ],
+    [
+      0.079947,
+      "ible/"
+    ],
+    [
+      0.909872,
+      "h"
+    ],
+    [
+      0.198108,
+      "o"
+    ],
+    [
+      0.122021,
+      "sts "
+    ],
+    [
+      0.999365,
+      "\r\n"
+    ],
+    [
+      0.001055,
+      "\r\n[iosxe]\r\nios-xe-mgmt.cisco.com \r\n\r\n[routeros]\r\n34.227.195.64 \r\n\u001b]0;root@ip-172-31-31-233:~\u0007[root@ip-172-31-31-233 ~]# "
+    ],
+    [
+      5.200695,
+      "\u001b[H\u001b[2J[root@ip-172-31-31-233 ~]# "
+    ],
+    [
+      2.088879,
+      "l"
+    ],
+    [
+      0.144125,
+      "s"
+    ],
+    [
+      0.165784,
+      " "
+    ],
+    [
+      0.270124,
+      "/"
+    ],
+    [
+      0.160025,
+      "e"
+    ],
+    [
+      0.080045,
+      "tc/"
+    ],
+    [
+      1.05984,
+      "a"
+    ],
+    [
+      0.188098,
+      "n"
+    ],
+    [
+      0.129923,
+      "s"
+    ],
+    [
+      0.062052,
+      "ible/"
+    ],
+    [
+      1.780056,
+      "g"
+    ],
+    [
+      0.199976,
+      "r"
+    ],
+    [
+      0.11993,
+      "oup_vars/"
+    ],
+    [
+      0.93027,
+      "\r\n"
+    ],
+    [
+      0.001542,
+      "iosxe.yml  routeros.yml\r\n\u001b]0;root@ip-172-31-31-233:~\u0007[root@ip-172-31-31-233 ~]# "
+    ],
+    [
+      2.40632,
+      "a"
+    ],
+    [
+      0.192919,
+      "n"
+    ],
+    [
+      0.088991,
+      "s"
+    ],
+    [
+      0.150024,
+      "i"
+    ],
+    [
+      0.231263,
+      "\u0007ble"
+    ],
+    [
+      0.078818,
+      "b"
+    ],
+    [
+      0.727951,
+      "\b\u001b[K"
+    ],
+    [
+      0.172035,
+      "\b\u001b[K"
+    ],
+    [
+      0.551234,
+      "\u0007e"
+    ],
+    [
+      0.92865,
+      "-"
+    ],
+    [
+      0.199992,
+      "p"
+    ],
+    [
+      0.170708,
+      "\u0007"
+    ],
+    [
+      1.240083,
+      "\r\nansible-playbook      ansible-playbook-2    ansible-playbook-2.7  ansible-pull          ansible-pull-2        ansible-pull-2.7\r\n[root@ip-172-31-31-233 ~]# ansible-p"
+    ],
+    [
+      0.369254,
+      "l"
+    ],
+    [
+      0.810607,
+      "\u0007aybook"
+    ],
+    [
+      0.989676,
+      " "
+    ],
+    [
+      1.321937,
+      "\u001b[H\u001b[2J[root@ip-172-31-31-233 ~]# ansible-playbook "
+    ],
+    [
+      2.177969,
+      "p"
+    ],
+    [
+      1.010027,
+      "l"
+    ],
+    [
+      0.209994,
+      "a"
+    ],
+    [
+      0.060047,
+      "ybook.yml "
+    ],
+    [
+      3.260195,
+      "\r\n"
+    ],
+    [
+      0.654936,
+      "\u001b[0;35m[DEPRECATION WARNING]: ios_interface is kept for backwards compatibility but usage is discouraged. The module documentation details \u001b[0m\r\n\u001b[0;35mpage may explain more about this rationale.. This feature will be removed in a future release. Deprecation warnings can be disabled \u001b[0m\r\n\u001b[0;35mby setting deprecation_warnings=False in ansible.cfg.\u001b[0m\r\n\u001b[0;35m[DEPRECATION WARNING]: ios_l3_interface is kept for backwards compatibility but usage is discouraged. The module documentation \u001b[0m\r\n\u001b[0;35mdetails page may explain more about this rationale.. This feature will be removed in a future release. Deprecation warnings can be \u001b[0m\r\n\u001b[0;35mdisabled by setting deprecation_warnings=False in ansible.cfg.\u001b[0m\r\n"
+    ],
+    [
+      0.059689,
+      "\r\nPLAY [Getting started] ***************************************************************************************************************\r\n"
+    ],
+    [
+      0.010289,
+      "\r\nTASK [GATHERING FACTS] ***************************************************************************************************************\r\n"
+    ],
+    [
+      0.08412,
+      "\u001b[0;36mskipping: [34.227.195.64]\u001b[0m\r\n"
+    ],
+    [
+      31.769896,
+      "\u001b[1;35m[WARNING]: default value for `gather_subset` will be changed to `min` from `!config` v2.11 onwards\u001b[0m\r\n\u001b[0;32mok: [ios-xe-mgmt.cisco.com]\u001b[0m\r\n\r\nTASK [Update login banner For Cisco] *************************************************************************************************\r\n"
+    ],
+    [
+      0.08301,
+      "\u001b[0;36mskipping: [34.227.195.64]\u001b[0m\r\n"
+    ],
+    [
+      26.420995,
+      "\u001b[0;33mchanged: [ios-xe-mgmt.cisco.com]\u001b[0m\r\n\r\nTASK [Update login banner for Mikrotik] **********************************************************************************************\r\n"
+    ],
+    [
+      0.088452,
+      "\u001b[0;36mskipping: [ios-xe-mgmt.cisco.com]\u001b[0m\r\n"
+    ],
+    [
+      11.486549,
+      "\u001b[0;32mok: [34.227.195.64]\u001b[0m\r\n\r\nTASK [Creating loopback for Cisco] ***************************************************************************************************\r\n"
+    ],
+    [
+      0.097298,
+      "\u001b[0;36mskipping: [34.227.195.64]\u001b[0m\r\n"
+    ],
+    [
+      9.047691,
+      "\u001b[0;33mchanged: [ios-xe-mgmt.cisco.com]\u001b[0m\r\n\r\nTASK [Assign IP to loopback] *********************************************************************************************************\r\n"
+    ],
+    [
+      0.084009,
+      "\u001b[0;36mskipping: [34.227.195.64]\u001b[0m\r\n"
+    ],
+    [
+      10.025991,
+      "\u001b[0;33mchanged: [ios-xe-mgmt.cisco.com]\u001b[0m\r\n\r\nTASK [Run IOS commands] **************************************************************************************************************\r\n"
+    ],
+    [
+      0.085349,
+      "\u001b[0;36mskipping: [34.227.195.64]\u001b[0m\r\n"
+    ],
+    [
+      4.723667,
+      "\u001b[0;32mok: [ios-xe-mgmt.cisco.com]\u001b[0m\r\n\r\nTASK [Display IOS command output] ****************************************************************************************************\r\n"
+    ],
+    [
+      0.08327,
+      "\u001b[0;36mskipping: [34.227.195.64]\u001b[0m\r\n"
+    ],
+    [
+      0.00472,
+      "\u001b[0;32mok: [ios-xe-mgmt.cisco.com] => {\u001b[0m\r\n\u001b[0;32m    \"output[\\\"stdout_lines\\\"]\": [\u001b[0m\r\n\u001b[0;32m        [\u001b[0m\r\n\u001b[0;32m            \"Interface              IP-Address      OK? Method Status                Protocol\", \u001b[0m\r\n\u001b[0;32m            \"GigabitEthernet1       10.10.20.48     YES NVRAM  up                    up      \", \u001b[0m\r\n\u001b[0;32m            \"GigabitEthernet2       unassigned      YES NVRAM  administratively down down    \", \u001b[0m\r\n\u001b[0;32m            \"GigabitEthernet3       unassigned      YES NVRAM  administratively down down    \", \u001b[0m\r\n\u001b[0;32m            \"Loopback7              10.10.10.10     YES manual up                    up      \", \u001b[0m\r\n\u001b[0;32m            \"Loopback111            100.100.10.10   YES manual up                    up      \", \u001b[0m\r\n\u001b[0;32m            \"Loopback181            10.10.10.181    YES manual up                    up\"\u001b[0m\r\n\u001b[0;32m        ]\u001b[0m\r\n\u001b[0;32m    ]\u001b[0m\r\n\u001b[0;32m}\u001b[0m\r\n"
+    ],
+    [
+      0.07009,
+      "\r\nPLAY RECAP ***************************************************************************************************************************\r\n\u001b[0;32m34.227.195.64\u001b[0m              : \u001b[0;32mok=1   \u001b[0m changed=0    unreachable=0    failed=0    \u001b[0;36mskipped=6   \u001b[0m rescued=0    ignored=0   \r\n\u001b[0;33mios-xe-mgmt.cisco.com\u001b[0m      : \u001b[0;32mok=6   \u001b[0m \u001b[0;33mchanged=3   \u001b[0m unreachable=0    failed=0    \u001b[0;36mskipped=1   \u001b[0m rescued=0    ignored=0   \r\n\r\n"
+    ],
+    [
+      0.041421,
+      "\u001b]0;root@ip-172-31-31-233:~\u0007[root@ip-172-31-31-233 ~]# "
+    ],
+    [
+      3.938758,
+      "s"
+    ],
+    [
+      0.160035,
+      "s"
+    ],
+    [
+      0.109948,
+      "h"
+    ],
+    [
+      0.129999,
+      " "
+    ],
+    [
+      0.750045,
+      "-"
+    ],
+    [
+      0.209951,
+      "p"
+    ],
+    [
+      0.150033,
+      " "
+    ],
+    [
+      0.607978,
+      "8"
+    ],
+    [
+      0.242067,
+      "1"
+    ],
+    [
+      0.259986,
+      "8"
+    ],
+    [
+      0.227919,
+      "1"
+    ],
+    [
+      1.142139,
+      " "
+    ],
+    [
+      0.24583,
+      "d"
+    ],
+    [
+      0.232064,
+      "e"
+    ],
+    [
+      0.172085,
+      "v"
+    ],
+    [
+      0.189921,
+      "e"
+    ],
+    [
+      0.367887,
+      "l"
+    ],
+    [
+      0.192151,
+      "o"
+    ],
+    [
+      0.1601,
+      "p"
+    ],
+    [
+      0.159918,
+      "e"
+    ],
+    [
+      0.199951,
+      "r"
+    ],
+    [
+      0.770015,
+      "@"
+    ],
+    [
+      2.970396,
+      "ios-xe-mgmt.cisco.com"
+    ],
+    [
+      2.149955,
+      "\r\n"
+    ],
+    [
+      0.124005,
+      "ssh: connect to host ios-xe-mgmt.cisco.com port 8181: Connection refused\r\r\n\u001b]0;root@ip-172-31-31-233:~\u0007[root@ip-172-31-31-233 ~]# "
+    ],
+    [
+      7.935679,
+      "ssh -p 8181 developer@ios-xe-mgmt.cisco.com"
+    ],
+    [
+      8.598322,
+      "\r\n"
+    ],
+    [
+      4.243806,
+      "\r\r\n-----------------------------------------------------------------\r\r\n  ____ ___ ____   ____ ___    ____             _\r\r\n / ___|_ _/ ___| / ___/ _ \\  |  _ \\ ___  _   _| |_ ___ _ __\r\r\n| |    | |\\___ \\| |  | | | | | |_) / _ \\| | | | __/ _ \\ '__|\r\r\n| |___ | | ___) | |__| |_| | |  _ < (_) | |_| | ||  __/ |\r\r\n \\____|___|____/ \\____\\___/  |_| \\_\\___/ \\__,_|\\__\\___|_|\r\r\n------------------------------------------------------------------\r\r\n          This Banner is generated by ansible\r\r\n------------------------------------------------------------------\r\r\n"
+    ],
+    [
+      0.242537,
+      "Password: "
+    ],
+    [
+      8.28406,
+      "\r\n\r\n\u001b]0;root@ip-172-31-31-233:~\u0007[root@ip-172-31-31-233 ~]# "
+    ],
+    [
+      4.541512,
+      "s"
+    ],
+    [
+      0.169914,
+      "s"
+    ],
+    [
+      0.14003,
+      "h"
+    ],
+    [
+      0.109954,
+      " "
+    ],
+    [
+      1.008078,
+      "-"
+    ],
+    [
+      0.269968,
+      "i"
+    ],
+    [
+      0.139969,
+      " "
+    ],
+    [
+      0.330049,
+      "s"
+    ],
+    [
+      0.290043,
+      "t"
+    ],
+    [
+      0.082746,
+      "orage-gateway.pem "
+    ],
+    [
+      1.889302,
+      "a"
+    ],
+    [
+      0.209984,
+      "d"
+    ],
+    [
+      0.210008,
+      "m"
+    ],
+    [
+      0.169973,
+      "i"
+    ],
+    [
+      0.188049,
+      "n"
+    ],
+    [
+      0.641973,
+      "@"
+    ],
+    [
+      7.610142,
+      "34.227.195.64"
+    ],
+    [
+      3.100221,
+      "\r\n"
+    ],
+    [
+      0.053172,
+      "\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n"
+    ],
+    [
+      0.000218,
+      "\r\n\r  MMM      MMM       KKK                          TTTTTTTTTTT      KKK\r\n\r  MMMM    MMMM       KKK                          TTTTTTTTTTT      KKK\r\n\r  MMM MMMM MMM  III  KKK  KKK  RRRRRR     OOOOOO      TTT     III  KKK  KKK\r\n\r  MMM  MM  MMM  III  KKKKK     RRR  RRR  OOO  OOO     TTT     III  KKKKK\r\n\r  MMM      MMM  III  KKK KKK   RRRRRR    OOO  OOO     TTT     III  KKK KKK\r\n\r  MMM      MMM  III  KKK  KKK  RRR  RRR   OOOOOO      TTT     III  KKK  KKK\r\n\r\r\n"
+    ],
+    [
+      0.000163,
+      "\r  MikroTik RouterOS 6.44.3 (c) 1999-2019       http://www.mikrotik.com/\r\n\r\r\n"
+    ],
+    [
+      6.3e-05,
+      "[?]             Gives the list of available commands\r\n"
+    ],
+    [
+      0.000236,
+      "\rcommand [?]     Gives help on the command and list of arguments\r\n\r\r\n\r[Tab]           Completes the command/word. If the input is ambiguous,\r\n\r                a second [Tab] gives possible options\r\n\r\r\n\r/               Move up to base level\r\n\r..              Move up one level\r\n\r/command        Use command at the base level\r\n"
+    ],
+    [
+      0.002655,
+      "\r\u001b[9999B\r\u001b[9999B(45 messages not shown)\r\njan/04/2021 07:38:14 system,error,critical login failure for user admin from 91.203.164.63 via telnet\r\njan/04/2021 07:38:15 system,error,critical login failure for user root from 91.203.164.63 via telnet\r\njan/04/2021 07:38:17 system,error,critical login failure for user guest from 91.203.164.63 via telnet\r\njan/04/2021 07:38:19 system,error,critical login failure for user root from 91.203.164.63 via telnet\r\njan/04/2021 07:38:20 system,error,critical login failure for user root from 91.203.164.63 via telnet\r\njan/04/2021 07:38:22 system,error,critical login failure for user root from 91.203.164.63 via telnet\r\njan/04/2021 07:38:24 system,error,critical login failure for user admin from 91.203.164.63 via telnet\r\njan/04/2021 07:38:26 system,error,critical login failure for user root from 91.203.164.63 via telnet\r\n\u001bZ  \u001b[6n"
+    ],
+    [
+      0.694281,
+      "\u001b[4l\u001b[20l\u001b[?47l\u001b[?7h\u001b[?5l\u001b[?25h\u001b[H\u001b[9999B\u001b[6n"
+    ],
+    [
+      0.279793,
+      "\u001b[H\u001b[9999B\u001bD\u001b[9999A\u001b[6n"
+    ],
+    [
+      0.35016,
+      "\u001b[H\u001b[9999C\u001b[6n"
+    ],
+    [
+      0.319641,
+      "\u001b[HěH\u001b[6n\r   "
+    ],
+    [
+      0.319989,
+      "\u001b[H\u001b[9999C\u001b[6n \u001b[6n \u001b[6n"
+    ],
+    [
+      0.320347,
+      "\u001b[3;5r\u001b[H\u001b[6n\n\n\n\n\n\n\n\u001b[6n\u001b[9999B\u001b[6n\u001b[r\u001b[1;9999r"
+    ],
+    [
+      0.327837,
+      "\r\r\r\u001b[9999B[\u001b[m\u001b[36madmin\u001b[m@\u001b[m\u001b[32mip-172-31-28-2.ec2.internal\u001b[m] > "
+    ],
+    [
+      17.739977,
+      "\r\n\r"
+    ],
+    [
+      0.000122,
+      "\r\r\r\u001b[9999B[\u001b[m\u001b[36madmin\u001b[m@\u001b[m\u001b[32mip-172-31-28-2.ec2.internal\u001b[m] > "
+    ],
+    [
+      6.333726,
+      "\r\u001b7\u001b[;29r\u001b[m\u001b8"
+    ],
+    [
+      0.001452,
+      "Connection to 34.227.195.64 closed.\r\r\n\u001b]0;root@ip-172-31-31-233:~\u0007[root@ip-172-31-31-233 ~]# "
+    ]
+  ]
+}
